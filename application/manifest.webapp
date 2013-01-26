@@ -1,7 +1,11 @@
 {
-  "name" : "Packaged app",
-  "version" : "1.0a1",
-  "size" : 8522,
+  "name": "Packaged app",
+  "version": "1.0a1",
+  "size": 8522,
+  "type": "certified",
+  "permissions": {
+    "alarms" : {}
+  },
   "release_notes": "First release",
   "package_path": "application.zip",
   "description": "Packaged App",
